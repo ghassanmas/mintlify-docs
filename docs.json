@@ -10,7 +10,7 @@
   "favicon": "/favicon.svg",
   "navigation": {
   "languages": [
-{
+  {
     "language": "ar",
     "tabs": [
       {
@@ -55,10 +55,8 @@
             ]
           }
         ]
-      }
+      }    
     ]
-
-
 },   
 {
   "language": "en",
@@ -106,12 +104,11 @@
           }
         ]
       }
-    ]
+   ]
 }
   ],
     
-    
-    "global": {
+  "global": {
       "anchors": [
         {
           "anchor": "Documentation",
