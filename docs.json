@@ -9,6 +9,59 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+  "languages": [
+{
+    "language": "ar",
+    "tabs": [
+      {
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "ar/introduction",
+              "ar/quickstart",
+              "ar/development"
+            ]
+          },
+          {
+            "group": "Essentials",
+            "pages": [
+              "ar/essentials/markdown",
+              "ar/essentials/code",
+              "ar/essentials/images",
+              "ar/essentials/settings",
+              "ar/essentials/navigation",
+              "ar/essentials/reusable-snippets"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "API Reference",
+        "groups": [
+          {
+            "group": "API Documentation",
+            "pages": [
+              "ar/api-reference/introduction"
+            ]
+          },
+          {
+            "group": "Endpoint Examples",
+            "pages": [
+              "ar/api-reference/endpoint/get",
+              "ar/api-reference/endpoint/create",
+              "ar/api-reference/endpoint/delete"
+            ]
+          }
+        ]
+      }
+    ]
+
+
+},   
+{
+  "language": "en",
     "tabs": [
       {
         "tab": "Guides",
@@ -53,7 +106,11 @@
           }
         ]
       }
-    ],
+    ]
+}
+  ],
+    
+    
     "global": {
       "anchors": [
         {
