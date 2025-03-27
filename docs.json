@@ -14,7 +14,7 @@
     "language": "ar",
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Guides AR",
         "groups": [
           {
             "group": "Get Started",
@@ -25,7 +25,7 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Essentials AR",
             "pages": [
               "ar/essentials/markdown",
               "ar/essentials/code",
@@ -38,16 +38,16 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "API Reference AR",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "API Documentation AR",
             "pages": [
               "ar/api-reference/introduction"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Endpoint Examples AR",
             "pages": [
               "ar/api-reference/endpoint/get",
               "ar/api-reference/endpoint/create",
